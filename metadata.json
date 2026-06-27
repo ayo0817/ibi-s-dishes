@@ -1,0 +1,6 @@
+{
+  "name": "IBI'S DISHES",
+  "description": "Authentic Nigerian Cuisine Delivered Fresh Across Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
